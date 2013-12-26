@@ -1,8 +1,7 @@
 demo1
 demo2
-<<<<<<< HEAD
+
 windows 1
-=======
 windows 2
->>>>>>> windows 2 content
+
 
