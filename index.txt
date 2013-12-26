@@ -13,4 +13,8 @@ merge 1- Windows
 >>>>>>> github/master
 
 
+<<<<<<< HEAD
 rebase1 - Windows
+=======
+rebase2 - linux
+>>>>>>> rebase2 demo
