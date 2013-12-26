@@ -18,3 +18,8 @@ rebase1 - Windows
 =======
 rebase2 - linux
 >>>>>>> rebase2 demo
+
+<!--linux user-->
+Linux--change1
+
+<!--Windows user-->
