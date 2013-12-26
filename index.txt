@@ -4,7 +4,7 @@ demo2
 windows 1
 windows 2
 
-<!-- example of Fetch and merge --/>
+<!-- example of Fetch and merge -->
 <<<<<<< HEAD
 Merge 2 - Linux
 
@@ -12,7 +12,7 @@ Merge 2 - Linux
 merge 1- Windows
 >>>>>>> github/master
 
-
+<!-- example of fetch and rebase -->
 <<<<<<< HEAD
 rebase1 - Windows
 =======
