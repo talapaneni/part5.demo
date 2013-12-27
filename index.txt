@@ -30,7 +30,5 @@ New enhancements
 fixed a bug in  the production
 
 new1
-
 new2
-
 new3
